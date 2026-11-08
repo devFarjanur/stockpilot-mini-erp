@@ -1,0 +1,12 @@
+/.env
+
+/backend/.env.local
+/backend/.env.*.local
+/backend/vendor/
+/backend/var/
+
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env.local
+
+/.idea/
